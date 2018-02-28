@@ -9,8 +9,8 @@ UIA.
 
 Setup and use as a Conan dependency:
 
-conan remote add Apps https://bintray.com/javjarfer/Apps
-conan install "CloseApplication/0.1@javjarfer/testing"
+* conan remote add Apps https://bintray.com/javjarfer/Apps
+* conan install "CloseApplication/0.1@javjarfer/testing"
 
 #### Building
 
